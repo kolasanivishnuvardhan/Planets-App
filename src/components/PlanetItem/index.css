@@ -1,0 +1,22 @@
+.planet-item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.planet-img {
+  width: 30%;
+}
+
+.planet-name {
+  font-family: 'Roboto';
+  font-size: 25px;
+  color: #ffffff;
+}
+
+.planet-description{
+  font-family: "Roboto";
+  font-size: 20px;
+  color: #ffffff;
+}
